@@ -8,7 +8,7 @@ function mySignUp(){
 }
 //Create a function that runs mySignup function after two seconds
 function onLoad(){
-   var timer = window.setTimeout(mySignUp, 2000);
+   var timer = window.setTimeout(mySignUp, 3000);
    console.log('this is working')
 }
 
