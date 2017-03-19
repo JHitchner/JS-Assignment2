@@ -1,0 +1,84 @@
+#hovering{
+  background-color: lightblue;
+  width: 300px;
+  position: absolute;
+  left: 700px;
+  top: 200px;
+}
+#no_hover{
+  font-weight: bold;
+  padding: 20px;
+  position: relative;
+  text-align: center;
+}
+#key_press{
+  position: relative;
+  left: 800px;
+}
+#button1{
+  position: relative;
+  width: 300px;
+  top: 100px;
+  height: 200px
+}
+#button2{
+  position: relative;
+  width: 300px;
+  top: -115px;
+  left: 475px;
+  height: 200px;
+}
+#button_right{
+  padding: 30px;
+  position: relative;
+  top: 10px;
+  border: 2px solid green;
+  border-radius: 20px;
+  color:white;
+  background-color: green;
+  width: 120px;
+  left: 100px;
+  margin: 0px;
+}
+#msg1{
+  font-weight: bold;
+  position: relative;
+  left: 50px;
+  display: none;
+}
+#button_left{
+  padding: 30px;
+  position: relative;
+  top: 25px;
+  border: 2px solid blue;
+  border-radius: 20px;
+  color:white;
+  background-color: blue;
+  width: 120px;
+  left: 80px;
+}
+#msg2{
+  font-weight: bold;
+  position: relative;
+  left: 100px;
+  top:20px;
+  display: none;
+}
+#form{
+  position: relative;
+  left: 700px;
+  padding: 40px;
+  width: 300px;
+  top: 200px;
+  border: 3px solid grey;
+  border-radius: 5px;
+}
+#username{
+  margin: 20px;
+}
+#pwd{
+  margin: 20px;
+}
+#submit{
+  margin: 20px;
+}

@@ -1,0 +1,225 @@
+#main{
+  width: 80%;
+  height: 100%;
+  background-color:white;
+  border: 3px solid white;
+  border-radius: 15px;
+  position:absolute;
+  left: 180px;
+  z-index: -1;
+}
+
+#title{
+  position: relative;
+  text-align: center;
+  color: #267095;
+  top: 20px;
+}
+#sympathy{
+  position:relative;
+  text-align: center;
+  color: steelblue;
+  font-style:italic;
+  font-weight:lighter;
+}
+#nav{
+  position: relative;
+  left:70%;
+  top:100px;
+  background-color: white;
+  width: 300px;
+}
+.nav_link{
+  padding: 10px;
+}
+#top{
+  height: 10px;
+	border: 0px;
+	box-shadow: 0 20px 20px -20px
+  #267095 inset;
+  z-index: 2;
+  width: 80%;
+}
+body{
+  background-color: steelblue;
+}
+#annoying_habits{
+  position: relative;
+  height:250px;
+  width: 300px;
+  background-color: steelblue;
+  border: 2px solid steelblue;
+  border-radius: 12px;
+  left: 200px;
+  top: 100px;
+}
+#common_habits{
+  text-align: center;
+  color:white;
+}
+#annoyinglist{
+  position: relative;
+  background-color: white;
+  width: 200px;
+  padding: 20px;
+  margin: 10px;
+  left:15px;
+  top: 10px;
+  box-shadow: 0px 50px 50px -50px steelblue inset;
+}
+li{
+  padding-bottom: 5px;
+}
+#focus{
+  padding: 30px;
+  left: 600px;
+  top: -200px;
+  width: 800px;
+  position: relative;
+  background-color: steelblue;
+  border: 1px solid white;
+  border-radius: 12px;
+}
+#intro{
+  font-size: 20px;
+  position: relative;
+  text-align: center;
+  color:white;
+  top:-20px;
+}
+.intro_focus{
+  position: relative;
+  top: -20px;
+  font-style: oblique;
+  line-height: 30px;
+  text-align: center;
+  background-color:white;
+  padding: 40px 20px 40px 20px;
+  box-shadow: 0px 50px 50px -50px steelblue inset;
+}
+#popup{
+  display:none;
+  position:absolute;
+  background-color: black;
+  border: 10px solid #267095;
+  width: 500px;
+  height: 400px;
+  left: 700px;
+  top:300px;
+  z-index: 2;
+}
+.opacity{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: white;
+  opacity: 0.8;
+  z-index: -3;
+}
+h4{
+  text-align: center;
+  color: white;
+  position: relative;
+  top: 50px;
+}
+h6{
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  position: relative;
+  top: 200px;
+}
+#reflection{
+  position: relative;
+  text-align: center;
+  color: white;
+  font-style: oblique;
+  line-height: 30px;
+  width: 300px;
+  left: 100px;
+  top: 50px;
+
+}
+#testimonials{
+  position: relative;
+  left: 200px;
+  top: -250px;
+  background-color: steelblue;
+  border: 3px solid steelblue;
+  border-radius: 10px;
+  width: 300px;
+  height: 300px;
+}
+#test_title{
+  position: relative;
+  text-align: center;
+  font-weight: lighter;
+  color:white;
+  top: 0px;
+  padding: 10px;
+}
+#test_1{
+  position: relative;
+  text-align: justify-left;
+  background-color: white;
+  padding: 10px;
+  left: 30px;
+  width: 200px;
+  height: 40px;
+  border: 2px solid steelblue;
+  border-radius: 10px;
+  white-space: nowrap;
+  overflow:hidden;
+  text-overflow: ellipsis;
+}
+
+#test_2{
+  position: relative;
+  text-align: justify-left;
+  background-color: white;
+  padding: 10px;
+  left: 30px;
+  width: 200px;
+  height: 40px;
+  border: 2px solid steelblue;
+  border-radius: 10px;
+  white-space: nowrap;
+  overflow:hidden;
+  text-overflow: ellipsis;
+}
+.name{
+  position: relative;
+  left:50px;
+  top: -5px;
+}
+#our_staff{
+  position: relative;
+  background-color: steelblue;
+  width: 600px;
+  height:250px;
+  left:700px;
+  top: -475px;
+  border: 2px solid steelblue;
+  border-radius: 10px;
+}
+#meet{
+  position: relative;
+  text-align: center;
+  color: white;
+  margin: 0px;
+  top: 20px;
+}
+#services_link{
+  position: relative;
+  top: 30px;
+  left: 120px;
+
+}
+img{
+  position: relative;
+  top: 40px;
+  left:120px;
+  width: 350px;
+  height: 150px;
+  border: 2px solid white;
+}
